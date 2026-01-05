@@ -119,25 +119,16 @@ FishDepth adalah website informatif yang menyajikan berbagai spesies ikan dan ma
 
 ## 5. Bukti Responsivitas, Wireframe & Tampilan
 
-1. **Desktop**
+1. **Responsivitas**
+ 1. Desktop
+ ![Desktop](Dokumentasi/image.png)
+ 2. Tab
+ ![Tab](Dokumentasi/image2.png)
+ 3. Mobile
+ ![Mobile](Dokumentasi/image3.png)
 
+2. **WireFrame**
 
-
-
-
-
-
-
-2. **Tab**
-
-
-
-
-
-
-
-
-3. **Mobile**
 
 
 
