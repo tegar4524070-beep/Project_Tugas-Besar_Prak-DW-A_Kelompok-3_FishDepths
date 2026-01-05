@@ -120,9 +120,9 @@ FishDepth adalah website informatif yang menyajikan berbagai spesies ikan dan ma
 
 **1. Dekstop**
 ![alt text](https://github.com/tegar4524070-beep/Project_Tugas-Besar_Prak-DW-A_Kelompok-3_FishDepths/blob/a0e4c3212ede52e6f6c8461108832c2046ecad0a/Responsive/Desktop.png?raw=true)
-**2. Tablet**
+**2. Mobile**
 ![alt text](https://github.com/tegar4524070-beep/Project_Tugas-Besar_Prak-DW-A_Kelompok-3_FishDepths/blob/a0e4c3212ede52e6f6c8461108832c2046ecad0a/Responsive/Mobile.png?raw=true)
-**3. Mobile**
+**3. Tablet**
 ![alt text](https://github.com/tegar4524070-beep/Project_Tugas-Besar_Prak-DW-A_Kelompok-3_FishDepths/blob/a0e4c3212ede52e6f6c8461108832c2046ecad0a/Responsive/Tab.png?raw=true)
 
 
@@ -148,8 +148,8 @@ FishDepth adalah website informatif yang menyajikan berbagai spesies ikan dan ma
 ## 7. Bukti Accesibility
 
 **1. Dekstop**
-![alt text](?raw=true)
+![alt text](https://github.com/tegar4524070-beep/Project_Tugas-Besar_Prak-DW-A_Kelompok-3_FishDepths/blob/73db2bd07d89c5142a2b346c0a716085821814e4/Aksesbilitas/Dekstop.jpeg?raw=true)
 **2. Mobile**
-![alt text](?raw=true)
+![alt text](https://github.com/tegar4524070-beep/Project_Tugas-Besar_Prak-DW-A_Kelompok-3_FishDepths/blob/73db2bd07d89c5142a2b346c0a716085821814e4/Aksesbilitas/Mobile.jpeg?raw=true)
 
 
