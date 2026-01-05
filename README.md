@@ -118,7 +118,6 @@ FishDepth adalah website informatif yang menyajikan berbagai spesies ikan dan ma
 
 ## 5. Bukti Responsivitas, Wireframe & Tampilan
 
-Bukti Bagian Responsive
 **1. Dekstop**
 ![alt text](https://github.com/tegar4524070-beep/Project_Tugas-Besar_Prak-DW-A_Kelompok-3_FishDepths/blob/a0e4c3212ede52e6f6c8461108832c2046ecad0a/Responsive/Desktop.png?raw=true)
 **2. Tablet**
@@ -130,7 +129,6 @@ Bukti Bagian Responsive
 
 ## 6. Bagian Wireframe
 
-Bagian Wireframe FishDepth
 **1. Bagian About Us**
 ![alt text](https://github.com/tegar4524070-beep/Project_Tugas-Besar_Prak-DW-A_Kelompok-3_FishDepths/blob/976712f2be7a2733034e8bbbf7e13ceb76516c34/Wireframe/About%20Us.png?raw=true)
 **2. Bagian Card Menu Zona**
